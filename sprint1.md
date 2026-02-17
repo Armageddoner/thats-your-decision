@@ -1,4 +1,4 @@
-*Sprint 1: What I did*
+**Sprint 1: What I did**
 I watched https://www.youtube.com/watch?v=yG-oJPR_40w time stamp 13
 I opened up IDE
 Learned how to use IDE
